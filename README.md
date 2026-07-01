@@ -7,7 +7,8 @@
 # About Me 
 Hi, I'm Simphiwe. I am a data engineer and aspiring cloud/solutions architect. I have passion for building solutions for complex or simple problems. Honestly, I love knowing I am making people's better through the use of technology. Whether it be building data systems that help make key decisions or solutions that make a process a little better, COUNT ME IN!
 
-# Tools and skills
+# Tools I have been using
 
-[![My Skills](https://skillicons.dev/icons?i=aws,git,azure,githubactions,linux,postgress,terraform,ubuntu,vscode,pythonperline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,azure,githubactions,linux,postgres,terraform,ubuntu,vscodeperline=4)](https://skillicons.dev)
+
 
