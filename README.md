@@ -1,4 +1,4 @@
-## Hey Hey, Simphiwe aka PhiweTheDev here 👋
+## Hi, Simphiwe here 👋
 
 <h3 align="center">Showcase of my work and skills!</h3>
 <hr>
